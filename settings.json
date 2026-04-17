@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nuovavanilla.aternos.me",
+    "ip": "oilfish.aternos.host:50728",
     "port": 50728,
     "version": "",
     "try-creative": false
